@@ -1,5 +1,5 @@
 Git is a distributed version control system.
-Git is free software GPL.
+Git is free software GPL 168.
 Git has a mutable index called stage.
 git hello
 git worker!
